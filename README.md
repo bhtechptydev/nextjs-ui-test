@@ -5,7 +5,7 @@ Construye una pequeña aplicación con Next.js que muestre una lista de producto
 
 **Requisitos:**
 1. Crea una app con Next.js (puedes usar create-next-app).
-2. Página /:
+2. Página /products:
     - Obtenga datos de productos desde una API mock (https://fakestoreapi.com/products).
     - Muestre los productos en tarjetas con nombre, precio e imagen.
 3. Hacer componentes reutilizables:
